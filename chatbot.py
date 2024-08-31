@@ -6,7 +6,7 @@ from langchain.chains.question_answering import load_qa_chain
 from langchain_community.chat_models import ChatOpenAI
 import os
 
-OPENAI_API_KEY = "sk-proj-H4gitoxAwi6h9xewwNMZT3BlbkFJBuD0UZoaNfAgsn2XzzY4"  # Replace with your OpenAI API key
+OPENAI_API_KEY = " "  # Replace with your OpenAI API key
 DATA_FOLDER = "wscadata"  # Folder where the text files are saved
 
 # Streamlit app setup
